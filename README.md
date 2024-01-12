@@ -1,7 +1,7 @@
 # Flo_Rfm_Project
 # Data Understanding and Preparation:
 
-The code imports necessary libraries, reads the dataset, and performs initial data exploration.
+The code imports necessary libraries reads the dataset, and performs initial data exploration.
 It creates new columns to represent total purchases and total expenses for omnichannel customers.
 There is a bonus section that analyzes total expenses for different product categories.
 
@@ -24,9 +24,9 @@ It assigns segment names such as 'hibernating,' 'loyal_customers,' etc.
 
 Two specific cases are discussed for targeting customers: targeting women shoe shoppers among champions and loyal customers, and applying a discount for men and children categories for specific customer segments.
 
-## Bonus Section:
+## Additional Content:
 
-There is a bonus section analyzing total expenses for different product categories.
+There is an additional section analyzing total expenses for different product categories.
 Suggestions:
 
 It's important to handle missing values appropriately and check for any potential data quality issues.
