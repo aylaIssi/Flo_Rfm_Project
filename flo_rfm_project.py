@@ -15,7 +15,7 @@ pd.set_option('display.width', 500)
 pd.set_option('display.float_format',lambda x : '%.5f' % x)
 
 
-df_= pd.read_csv("flo_rfm_project/flo_data_20k.csv")
+df_= pd.read_csv("data_20k.csv")
 df = df_.copy()
 df.describe().T
 df.head(10)
